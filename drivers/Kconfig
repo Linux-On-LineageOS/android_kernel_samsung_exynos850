@@ -261,4 +261,7 @@ source "drivers/muic/slsi/s2mu106/Kconfig" # ADDED BY LEGO AUTOMATICALLY: DO NOT
 source "drivers/battery/fuelgauge/s2mu106_fuelgauge/Kconfig" # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
 source "drivers/battery/charger/s2mu106_charger/Kconfig" # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
 source "drivers/battery/common/Kconfig" # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
